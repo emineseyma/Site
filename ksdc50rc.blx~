@@ -1,0 +1,115 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Anasayfa.aspx.cs" Inherits="_213004078_EmineYesilyurtt.Default" %>
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US"><head>
+    <meta charset="utf-8">
+    <title>okaliptusyazilim.com</title>
+    <meta name="viewport" content="initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no, width = device-width">  
+    <link rel="stylesheet" href="style.css" media="screen">
+    <link rel="stylesheet" href="style.responsive.css" media="all">
+
+
+    <script src="jquery.js"></script>
+    <script src="script.js"></script>
+    <script src="script.responsive.js"></script>
+
+
+<style>.omer-content .omer-postcontent-0 .layout-item-0 { margin-bottom: 10px;  }
+.omer-content .omer-postcontent-0 .layout-item-1 {  }
+.omer-content .omer-postcontent-0 .layout-item-2 { color: #000000; padding-right: 10px;  }
+.omer-content .omer-postcontent-0 .layout-item-3 { border-right-style:solid;border-right-width:1px;border-right-color:#000000; color: #000; padding-right: 10px;padding-left: 10px; float: left; }
+.ie7 .omer-post .omer-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .omer-post .omer-layout-cell {border:none !important; padding:0 !important; }
+
+</style></head>
+<body>
+<div id="omer-main">
+<nav class="omer-nav clearfix">
+    <ul class="omer-hmenu">
+    <li><a href="anasayfa.aspx" class="active">Anasayfa</a></li>
+    <li><a href="hakkımızda.aspx">Hakkımızda</a></li>
+    <li><a href="hizmetlerimiz.aspx">Hizmetlerimiz </a></li>
+    <li><a href="iletisim.aspx">İletişim</a></li></ul> 
+    </nav>
+<header class="omer-header clearfix">
+<div class="omer-slider omer-slidecontainerheader" data-width="900" data-height="280">
+    <div class="omer-slider-inner">
+<div class="omer-slide-item omer-slideheader1">
+
+</div>
+<div class="omer-slide-item omer-slideheader2">
+
+</div>
+
+    </div>
+</div>
+<div class="omer-slidenavigator omer-slidenavigatorheader" data-left="0">
+<a href="#" class="omer-slidenavigatoritem"></a><a href="#" class="omer-slidenavigatoritem"></a><a href="#" class="omer-slidenavigatoritem"></a>
+</div>
+
+
+
+    <div class="omer-shapes">
+
+            </div>
+                        
+</header>
+<div class="omer-sheet clearfix">
+            <div class="omer-layout-wrapper clearfix">
+                <div class="omer-content-layout">
+                    <div class="omer-content-layout-row">
+                        <div class="omer-layout-cell omer-content clearfix"><article class="omer-post omer-article">
+                                
+                                                
+                <div class="omer-postcontent omer-postcontent-0 clearfix"><div class="omer-content-layout-wrapper layout-item-0">
+<div class="omer-content-layout layout-item-1">
+    <div class="omer-content-layout-row">
+    <div class="omer-layout-cell layout-item-2" style="width: 100%" >
+        <p style="text-align: center;"><img height="400" alt="" src="image/5.jpg" class="" style="width: 1500px"></p>
+        <div style="background: #fff; text-align: center; line-height: 40px"><h2>OKALIPTUS YAZILIM</h2></div>
+        
+         
+    </div>
+    </div>
+</div>
+</div>
+<div class="omer-content-layout-wrapper layout-item-0">
+<div class="omer-content-layout">
+    <div class="omer-content-layout-row">
+    <div class="omer-layout-cell layout-item-3" style="width: 32%" >
+        <p style="text-align: center;"><img width="208" height="208" alt="" src="image/9.jpg" class=""></p>
+        <div style="background: #7da1dd; text-align:center; line-height: 40px"><h4>KALİTELİ HİZMET </h4></div>
+    
+    </div>
+    <div class="omer-layout-cell layout-item-3" style="width: 32%" >
+        <p style="text-align: center;"><img width="208" height="208" alt="" src="image/7.jpg" class=""></p>
+        <div style="background: #7da1dd; text-align:center; line-height: 40px"><h4>ZAMANDAN TASARRUF</h4></div>
+
+    </div>
+    <div class="omer-layout-cell layout-item-3" style="width:31%;" >
+        <p style="text-align: center;"><img width="208" height="208" alt="" src="image/8.jpg" class="">
+        </p><div style="background:#7da1dd; text-align:center; line-height: 40px"><h4>ZAMANDAN TASARRUF </h4></div>
+         <p style="text-align: justify;margin:10px"></p>
+         
+    </div>
+    </div>
+</div>
+</div>
+</div>
+
+
+</article></div>
+                    </div>
+                </div>
+            </div>
+    </div>
+<footer class="omer-footer clearfix">
+  <div class="omer-footer-inner">
+    <p>INTERNET PROGRAMCILIĞI © 2023, Emine Yeşilyurt<br>
+<br></p>
+  </div>
+</footer>
+
+</div>
+
+
+</body></html>
